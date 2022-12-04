@@ -1,4 +1,4 @@
-# Neural-Network-project
+# Song Genre Classification with Neural Network
 This is the code for the project of Numerical Analysis for Machine Learning (NAML) at Politecnico di Milano.<br>
 The goal of the project was to create an artificial neural network for music genre recognition; we used a 1D Residual Convolutional Neural Network with the GTZAN Music Genre
 Dataset.<br>
